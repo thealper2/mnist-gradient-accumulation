@@ -1,0 +1,5 @@
+rich
+torch
+torchvision
+tqdm
+typer
